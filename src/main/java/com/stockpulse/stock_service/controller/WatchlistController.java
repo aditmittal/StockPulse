@@ -1,6 +1,7 @@
 package com.stockpulse.stock_service.controller;
 
 import com.stockpulse.stock_service.dto.WatchlistRequest;
+import com.stockpulse.stock_service.dto.WatchlistResponse;
 import com.stockpulse.stock_service.model.Watchlist;
 import com.stockpulse.stock_service.service.WatchlistService;
 import lombok.RequiredArgsConstructor;
@@ -25,9 +26,12 @@ public class WatchlistController {
     }
 
     @GetMapping
-    public ResponseEntity<List<Watchlist>> get(Authentication auth) {
-        return ResponseEntity.ok(watchlistService.getUserWatchlist(auth.getName()));
+    public ResponseEntity<List<WatchlistResponse>> getWatchlist(Authentication authentication) {
+        String username = authentication.getName();
+        List<WatchlistResponse> watchlist = watchlistService.getUserWatchlist(username);
+        return ResponseEntity.ok(watchlist);
     }
+
 
     @DeleteMapping("/{stockId}")
     public ResponseEntity<String> delete(@PathVariable Long stockId, Authentication auth) {
