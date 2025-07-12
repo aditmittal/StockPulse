@@ -1,9 +1,11 @@
 C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\config\SecurityConfig.java
 C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\controller\AuthController.java
 C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\controller\StockController.java
+C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\controller\WatchlistController.java
 C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\dto\AuthRequest.java
 C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\dto\AuthResponse.java
 C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\dto\RegisterRequest.java
+C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\dto\WatchlistRequest.java
 C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\model\Stock.java
 C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\model\User.java
 C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\model\Watchlist.java
@@ -13,4 +15,5 @@ C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\st
 C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\security\JwtFilter.java
 C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\security\JwtUtil.java
 C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\service\AuthService.java
+C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\service\WatchlistService.java
 C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\StockServiceApplication.java
