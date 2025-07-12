@@ -6,6 +6,7 @@ com\stockpulse\stock_service\model\Watchlist$WatchlistBuilder.class
 com\stockpulse\stock_service\dto\RegisterRequest.class
 com\stockpulse\stock_service\model\Stock.class
 com\stockpulse\stock_service\security\JwtUtil.class
+com\stockpulse\stock_service\config\SecurityConfig.class
 com\stockpulse\stock_service\service\AuthService.class
 com\stockpulse\stock_service\model\Watchlist.class
 com\stockpulse\stock_service\dto\AuthRequest.class
