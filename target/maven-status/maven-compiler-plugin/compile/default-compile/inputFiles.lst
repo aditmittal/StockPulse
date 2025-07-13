@@ -6,6 +6,7 @@ C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\st
 C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\dto\AuthResponse.java
 C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\dto\RegisterRequest.java
 C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\dto\WatchlistRequest.java
+C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\dto\WatchlistResponse.java
 C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\exception\GlobalExceptionHandler.java
 C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\exception\ResourceNotFoundException.java
 C:\Users\Hp\OneDrive\Desktop\22LPA\stock-service\src\main\java\com\stockpulse\stock_service\model\Stock.java
